@@ -6,7 +6,7 @@ Welcome to my Personal Business Card project! 🌟 As I explore the world of CSS
 
 # Website
 
-Live Version <a href="https://businesscard03.netlify.app/" target="_blank">here</a>
+Live Version [here](https://businesscard03.netlify.app/)
 
 # Preview
 
