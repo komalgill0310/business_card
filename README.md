@@ -25,7 +25,7 @@ Curious about my business card? Follow these steps to explore and personalize:
 1. Clone the repository.
 2. Open the index.html file in your browser.
 3. Customize the details in the HTML file to reflect your personal information.
-3. Witness the transformation as your personalized business card takes shape!
+4. Witness the transformation as your personalized business card takes shape!
 
 ## Features
 
